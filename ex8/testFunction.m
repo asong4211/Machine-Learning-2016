@@ -1,0 +1,1 @@
+function randomName () A = [0 1 1 0 1; 0.5 0 0.2 1 0; 5 1 1 2 0]B = [1 0 0; 0.5 0.2 0; 1 0.3 11;1 4 0; 0 1 1]R = [1 1 1 0 0; 1 0 0 1 0;1 0 0 0 0; 0 1 1 1 0; 0 1 1 0 0]C = A * B;total = 0;for i = 1:5  for j = 1:5    if (R(i,j) == 1)       total = total + C(i,j)      disp(total)     end    end endkeyboardend
