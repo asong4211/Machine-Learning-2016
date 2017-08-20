@@ -2,7 +2,10 @@
 
 
 8 Machine Learning Programming Exercise using MatLab.</ br>
+
+
 **ex1** Linear Regression using Gradient Descent</ br>
+
 **ex2** Logistic Regression with Regularization</ br>
 **ex3** Multiclass Classification and Neural Networks</ br>
 **ex4** Backpropagation algorithm with Neural Networks</ br>
