@@ -1,15 +1,15 @@
 # Machine-Learning-2016
 
 
-8 Machine Learning Programming Exercise using MatLab.
+8 Machine Learning Programming Exercise using Octave / MatLab.
 
-**ex1** Linear Regression using Gradient Descent
+**ex1** Linear Regression 
 
-**ex2** Logistic Regression with Regularization
+**ex2** Logistic Regression 
 
 **ex3** Multiclass Classification and Neural Networks
 
-**ex4** Backpropagation algorithm with Neural Networks
+**ex4** Backpropagation for Neural Networks
 
 **ex5** Regularized Linear Regression and Bias vs Variance
 
